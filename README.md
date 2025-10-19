@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello @everyone 👋
 
-<!--
-**Gabi-Zar/Gabi-Zar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 Hi, I’m @Gabi-Zar
+- 👀 I’m interested by coding
+- 🌱 I’m currently learning how to destroy the world
+- 📫 How to reach me "GabiZar@proton.me"
+- 😄 Pronouns: GabiZar/Gabi-Zar
+- 🌍 I'm French 🇫🇷
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabi-Zar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
