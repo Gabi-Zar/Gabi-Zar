@@ -1,7 +1,7 @@
 <div align="center">
 
 # 💫 About Me:
-👋 Hi, I’m @Gabi-Zar<br>👀 I’m interested by coding<br>🌱 I’m currently learning how to destroy the world<br>📫 How to reach me "GabiZar@proton.me"<br>😄 Pronouns: GabiZar/Gabi-Zar<br>🌍 I'm French 🇫🇷
+👋 Hi, I’m @Gabi-Zar<br>👀 I’m interested by coding<br>🌱 I’m currently learning how to destroy the world<br>📫 How to reach me "GabiZar@proton.me" or discord: @gabizar<br>😄 Pronouns: GabiZar/Gabi-Zar<br>🌍 I'm French 🇫🇷
 
 
 # 💻 Tech Stack:
